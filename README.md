@@ -20,7 +20,8 @@
 </td>
 <td width="25%" valign="top" align="right">
 
-<img src="./code-portrait.png" width="150" alt="Mohammed's CODE typography portrait"/>
+<img src="./CODE(); Typographic Portrait in Monochrome.png
+" width="150" alt="Mohammed's CODE typography portrait"/>
 
 </td>
 </tr>
