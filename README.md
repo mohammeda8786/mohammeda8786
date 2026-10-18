@@ -1,4 +1,4 @@
-# Mohammed A.
+# Mohammed A
 
 ### Software Engineer | Applied AI & Generative AI Enthusiast
 
@@ -8,8 +8,6 @@ Building practical software solutions with **Java, Python, React, Node.js, and G
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammeda8786-181717?style=for-the-badge&logo=github)](https://github.com/mohammeda8786)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-a-609662328)
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammeda8786&style=for-the-badge&color=0ea5e9)](https://github.com/mohammeda8786)
-
 ---
 
 ## 👨‍💻 About Me
