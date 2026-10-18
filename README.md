@@ -1,7 +1,7 @@
 
 <table>
 <tr>
-<td width="75%" valign="top">
+ <td width="82%" valign="top">
 
 # Hi, I'm Mohammed A. 👋
 
@@ -14,15 +14,13 @@ Building practical software solutions with Java, Python, React, Node.js, and Gen
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=38BDF8&width=430&height=30&lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic typing animation"/>
 
-
-<td width="25%" valign="top" align="center">
-  <img
-    src="./CODE();%20Typographic%20Portrait%20in%20Monochrome.png"
-    width="100%"
-    alt="Mohammed's CODE typography portrait"
-  />
-</td>
-
+ <td width="18%" valign="top" align="right">
+      <img
+        src="./CODE();%20Typographic%20Portrait%20in%20Monochrome.png"
+        width="150"
+        alt="Mohammed's CODE typography portrait"
+      />
+    </td>
 </tr>
 </table>
 
