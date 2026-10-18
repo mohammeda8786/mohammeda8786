@@ -1,57 +1,37 @@
 
 <table>
   <tr>
-    <td valign="middle" width="78%">
+    <td valign="middle" width="75%">
       <h1>Hi, I'm Mohammed A. 👋</h1>
       <h3>Software Engineer | Applied AI &amp; Generative AI</h3>
-
-      <p>
-        Building practical software solutions with Java, Python,
-        React, Node.js, and Generative AI.
-      </p>
-
-      <a href="https://github.com/mohammeda8786">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
-      </a>
-      <a href="https://linkedin.com/in/mohammed-a-609662328">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
-      </a>
-
+      <p>Building practical software solutions with Java, Python, React, Node.js, and Generative AI.</p>
+      <a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/></a>
+      <a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/></a>
       <br/><br/>
-
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1800&amp;color=38BDF8&amp;width=430&amp;height=45&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications"
-        alt="Typing SVG"
-      />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1800&amp;color=38BDF8&amp;width=430&amp;height=45&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Typing SVG"/>
     </td>
-
-    <td width="22%" align="center" valign="middle">
-      <img
-        src="./CODE(); Typographic Portrait in Monochrome.png"
-        width="180"
-        alt="Mohammed's CODE typography portrait"
-      />
+    <td width="25%" align="center" valign="middle">
+      <img src="./code-portrait.png" width="160" alt="Mohammed's CODE typography portrait"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing B.E. in Electronics &amp; Instrumentation Engineering at BIT Sathy.
+- 🎓 Pursuing B.E. in Electronics & Instrumentation Engineering at BIT Sathy.
 - 💻 Interested in Software Engineering, AI Engineering, and Generative AI.
 - 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
 - 🤖 Exploring RAG systems, semantic search, embeddings, and vector databases.
 - 🛠️ Building applications that connect software engineering with practical problems.
-- 🌱 Continuously learning, experimenting, and improving through hands-on projects.
+- 🌱 Continuously learning through hands-on projects.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend &amp; Backend
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -68,19 +48,17 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
-### Databases &amp; AI
+**Databases & AI**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6C47FF?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-0EA5E9?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
 
-### Developer Tools
+**Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -93,12 +71,12 @@
 
 ### 1. Adaptive RAG Pipeline for Banking Policy Analysis
 
-An AI-powered project exploring evidence retrieval from banking policy and regulatory documents to support policy analysis.
+Exploring evidence retrieval from banking policy and regulatory documents to support policy analysis.
 
-- **Focus:** Document processing, semantic retrieval, evidence-grounded responses, and regulatory document analysis.
+- **Focus:** Document processing, semantic retrieval, evidence-grounded responses, and regulatory analysis.
 - **Technologies:** Python, embeddings, RAG, vector databases.
 
-[Explore my repositories](https://github.com/mohammeda8786?tab=repositories)
+[Explore repositories](https://github.com/mohammeda8786?tab=repositories)
 
 ### 2. AI-Powered Banking Chatbot
 
@@ -116,15 +94,15 @@ A billing application designed around the practical needs of a grocery and pulse
 - **Focus:** Product search, billing workflows, editable prices, and customer-friendly bill generation.
 - **Technologies:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB.
 
-[Explore my repositories](https://github.com/mohammeda8786?tab=repositories)
+[Explore repositories](https://github.com/mohammeda8786?tab=repositories)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
