@@ -14,7 +14,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=38BDF8&amp;width=500&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Typing SVG"/>
     </td>
     <td valign="top" width="28%" align="right">
-      <img src="./code-portrait.png" width="220" alt="Mohammed's CODE typography portrait"/>
+      <img src="./CODE(); Typographic Portrait in Monochrome.png" width="220" alt="Mohammed's CODE typography portrait"/>
     </td>
   </tr>
 </table>
