@@ -1,27 +1,29 @@
 
-
 <table>
-  <tr>
-    <td width="75%" valign="top">
-      <h1>Hi, I'm Mohammed A. 👋</h1>
-      <h3>Software Engineer | Applied AI &amp; Generative AI</h3>
+<tr>
+<td width="75%" valign="top">
 
-      <p>Building practical software solutions with Java, Python, React, Node.js, and Generative AI.</p>
+# Hi, I'm Mohammed A. 👋
 
-      <a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/></a>
-      <a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/></a>
+### Software Engineer | Applied AI &amp; Generative AI
 
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=2500&amp;pause=700&amp;color=38BDF8&amp;width=430&amp;height=30&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic typing animation"/>
-      </p>
-    </td>
-    <td width="25%" valign="top" align="right">
-      <img src="./CODE();%20Typographic%20Portrait%20in%20Monochrome.png" width="150" alt="Mohammed's CODE typography portrait"/>
-    </td>
-  </tr>
+Building practical software solutions with Java, Python, React, Node.js, and Generative AI.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohammeda8786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-a-609662328)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=38BDF8&width=430&height=30&lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic typing animation"/>
+
+</td>
+<td width="25%" valign="top" align="right">
+<img src="./CODE();%20Typographic%20Portrait%20in%20Monochrome.png" width="150" alt="Mohammed's CODE typography portrait"/>
+</td>
+</tr>
 </table>
 
+---
 
+## 👨‍💻 About Me
 
 ---
 
