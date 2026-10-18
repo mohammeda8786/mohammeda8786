@@ -1,23 +1,40 @@
- <table>
+
+<table>
   <tr>
-    <td valign="middle" width="72%">
+    <td valign="middle" width="78%">
       <h1>Hi, I'm Mohammed A. 👋</h1>
       <h3>Software Engineer | Applied AI &amp; Generative AI</h3>
-      <p>Building practical software solutions with Java, Python, React, Node.js, and Generative AI.</p>
+
+      <p>
+        Building practical software solutions with Java, Python,
+        React, Node.js, and Generative AI.
+      </p>
+
       <a href="https://github.com/mohammeda8786">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
       </a>
       <a href="https://linkedin.com/in/mohammed-a-609662328">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
       </a>
+
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=38BDF8&amp;width=500&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Typing SVG"/>
+
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1800&amp;color=38BDF8&amp;width=430&amp;height=45&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications"
+        alt="Typing SVG"
+      />
     </td>
-    <td valign="top" width="28%" align="right">
-      <img src="./CODE(); Typographic Portrait in Monochrome.png" width="220" alt="Mohammed's CODE typography portrait"/>
+
+    <td width="22%" align="center" valign="middle">
+      <img
+        src="./CODE(); Typographic Portrait in Monochrome.png"
+        width="180"
+        alt="Mohammed's CODE typography portrait"
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 
