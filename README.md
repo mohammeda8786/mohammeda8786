@@ -1,26 +1,31 @@
 
-<table>
-  <tr>
-    <td width="75%" valign="top">
-      <h1>Hi, I'm Mohammed A. 👋</h1>
-      <h3>Software Engineer | Applied AI &amp; Generative AI</h3>
-      <p>Building practical software solutions with Java, Python, React, Node.js, and Generative AI.</p>
-      <p>
-        <a href="https://github.com/mohammeda8786">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-        </a>
-        <a href="https://linkedin.com/in/mohammed-a-609662328">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-        </a>
-      </p>
 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=false&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications;Applied+AI+%26+Generative+AI" alt="Dynamic typing animation"/>
-    </td>
-    <td width="25%" valign="top" align="right">
-      <img src="./code-portrait.png" width="160" alt="Mohammed's CODE typography portrait"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="75%" valign="top">
+
+<h1>Hi, I'm Mohammed A. 👋</h1>
+
+<h3>Software Engineer | Applied AI &amp; Generative AI</h3>
+
+<p>Building practical software solutions with Java, Python, React, Node.js, and Generative AI.</p>
+
+<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;width=430&amp;height=45&amp;lines=Software+Development;Data+Structures+%26+Algorithms;Building+Useful+AI+Applications;Applied+AI+%26+Generative+AI" alt="Dynamic typing animation"/>
+
+</td>
+<td width="25%" valign="top" align="right">
+
+<img src="./code-portrait.png" width="150" alt="Mohammed's CODE typography portrait"/>
+
+</td>
+</tr>
 </table>
+
 
 ---
 
