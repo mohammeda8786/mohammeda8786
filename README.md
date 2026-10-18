@@ -1,4 +1,12 @@
+<div align="center">
+  <img
+    src="https://github.com/mohammeda8786.png"
+    width="160"
+    alt="Mohammed A."
+  />
+</div>
 # Mohammed A
+
 
 ### Software Engineer | Applied AI & Generative AI Enthusiast
 
