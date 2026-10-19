@@ -47,39 +47,67 @@ I enjoy understanding problems deeply and turning ideas into useful software.
 
 ---
 
+
+---
+
 ## Technologies I Work With
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java, Python, C and JavaScript" />
 
-<br/><br/>
+</td>
+<td align="center" width="50%" valign="top">
 
-**Web Development**
+### Frontend & Backend
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" alt="React, Vite, Tailwind CSS, Node.js and Express" />
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 
-**Databases & AI**
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 
-<br/>
+</td>
+<td align="center" width="50%" valign="top">
 
+### AI & Vector Search
+
+<p>
 <img src="https://img.shields.io/badge/ChromaDB-102719?style=flat-square&labelColor=102719&color=39FF14" alt="ChromaDB" />
 <img src="https://img.shields.io/badge/Qdrant-102719?style=flat-square&labelColor=102719&color=39FF14" alt="Qdrant" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/Ollama-102719?style=flat-square&logo=ollama&logoColor=39FF14&color=102719" alt="Ollama" />
+<img src="https://img.shields.io/badge/RAG-102719?style=flat-square&labelColor=102719&color=39FF14" alt="RAG" />
+</p>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" colspan="2" valign="top">
 
-**Developer Tools**
+### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker&theme=dark" alt="Git, GitHub, Postman, VS Code and Docker" />
 
+</td>
+</tr>
+</table>
+
 </div>
+
+
 
 ---
 
