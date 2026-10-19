@@ -1,101 +1,92 @@
 
 <table>
 <tr>
- <td width="82%" valign="top">
+<td width="75%" valign="middle">
 
-# Hi, I'm Mohammed A. 👋
+<h1>Hi, I'm Mohammed <span style="color:#0EA5E9">A.</span> 👋</h1>
 
-### Software Engineer | Applied AI &amp; Generative AI
+<h2>Software Engineer | Applied AI &amp; Generative AI</h2>
 
+<p>
 Building practical software solutions with Java, Python, React, Node.js, and Generative AI.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohammeda8786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-a-609662328)
+<p>
+<a href="https://github.com/mohammeda8786">
+<img src="https://img.shields.io/badge/GITHUB-10151C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/mohammed-a-609662328">
+<img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=38BDF8&width=430&height=30&lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=19BDF7&vCenter=true&width=600&height=40&lines=Software+Development;Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic typing animation"/>
 
- <td width="18%" valign="top" align="right">
-      <img
-        src="./gitwrap.png.png"
-        width="150"
-        alt="Mohammed's CODE typography portrait"
-      />
-    </td>
+</td>
+<td width="25%" align="center" valign="middle">
+
+<img src="./code-portrait.png" width="240" alt="Mohammed's CODE typography portrait"/>
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 👨‍💻 About Me
-
----
-
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 - 🎓 Pursuing B.E. in Electronics &amp; Instrumentation Engineering at BIT Sathy.
-- 💻 Interested in Software Engineering, AI Engineering, and Generative AI.
-- 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
-- 🤖 Exploring RAG systems, semantic search, embeddings, and vector databases.
+- 💻 Interested in Software Engineering, Applied AI, and Generative AI.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🤖 Exploring RAG, semantic search, embeddings, and vector databases.
 - 🛠️ Building applications that solve practical problems.
-- 🌱 Continuously learning through hands-on projects.
+- 🌱 Learning continuously through hands-on projects.
 
 ---
 
-## 🧰 Tech Stack
+<h2>🧰 Tech Stack</h2>
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend &amp; Backend
+**Frontend &amp; Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases &amp; AI
+**Databases &amp; AI**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C47FF?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
-
-### Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 ### 1. Adaptive RAG Pipeline for Banking Policy Analysis
 
 Exploring evidence retrieval from banking policy and regulatory documents to support policy analysis.
 
-- **Focus:** Document processing, semantic retrieval, evidence-grounded responses, and regulatory analysis.
-- **Technologies:** Python, embeddings, RAG, vector databases.
+**Focus:** Document processing, semantic retrieval, evidence-grounded responses, and regulatory document analysis.
 
-[Explore my repositories](https://github.com/mohammeda8786?tab=repositories)
+[Explore Repositories](https://github.com/mohammeda8786?tab=repositories)
 
 ### 2. AI-Powered Banking Chatbot
 
 A banking assistant designed to answer questions using retrieved banking-policy information.
 
-- **Focus:** Retrieval-augmented generation, document ingestion, conversational interfaces, and backend integration.
-- **Technologies:** React, Vite, Node.js, Express, MongoDB, Ollama, ChromaDB.
+**Technologies:** React, Vite, Node.js, Express, MongoDB, Ollama, ChromaDB.
 
 [View Repository](https://github.com/mohammeda8786/ai-banking-chatbot)
 
@@ -103,27 +94,30 @@ A banking assistant designed to answer questions using retrieved banking-policy 
 
 A billing application designed around the practical needs of a grocery and pulses business.
 
-- **Focus:** Product search, billing workflows, editable prices, and customer-friendly bill generation.
-- **Technologies:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB.
+**Technologies:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB.
 
-[Explore my repositories](https://github.com/mohammeda8786?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammeda8786&amp;theme=tokyonight&amp;hide_border=true" width="75%" alt="GitHub contribution streak"/>
-</p>
+[Explore Repositories](https://github.com/mohammeda8786?tab=repositories)
 
 ---
 
-## 🏅 Certifications
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+<a href="https://github.com/mohammeda8786">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/mohammeda8786">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mohammeda8786&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+<h2>🏅 Certifications</h2>
 
 - Oracle Cloud Infrastructure — Machine Learning Associate
 - Oracle Cloud Infrastructure — Generative AI Professional
@@ -133,23 +127,22 @@ A billing application designed around the practical needs of a grocery and pulse
 
 ---
 
-## 🎯 Current Focus
+<h2>🎯 Current Focus</h2>
 
 - Strengthening Data Structures and Algorithms.
 - Building reliable backend APIs and full-stack applications.
 - Improving retrieval quality and evidence grounding in RAG systems.
-- Learning software engineering fundamentals and system design.
-- Writing clean, maintainable code and documenting projects effectively.
+- Learning system design and software engineering fundamentals.
 
 ---
 
-## 🤝 Let's Connect
+<h2>🤝 Let's Connect</h2>
 
-I'm interested in collaborating on software projects, AI applications, and open-source initiatives.
-
-- **GitHub:** [@mohammeda8786](https://github.com/mohammeda8786)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/mohammed-a-609662328)
+<p>
+<a href="https://github.com/mohammeda8786">GitHub</a> •
+<a href="https://linkedin.com/in/mohammed-a-609662328">LinkedIn</a>
+</p>
 
 <p align="center">
-  <i>Learn continuously. Build thoughtfully. Solve meaningful problems.</i>
+<i>Learn continuously. Build thoughtfully. Solve meaningful problems.</i>
 </p>
