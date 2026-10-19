@@ -79,23 +79,23 @@ I enjoy understanding problems deeply and turning ideas into useful software.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 
 </td>
-<td align="center" width="50%" valign="top">
 
+<td align="center" width="50%" valign="top">
 
 ### AI & Vector Search
 
 <p>
-<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117" alt="Qdrant" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=39FF14" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Qdrant-0D1117?style=for-the-badge&logo=qdrant&logoColor=39FF14" alt="Qdrant" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=39FF14&labelColor=0D1117" alt="Ollama" />
-<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117" alt="RAG" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=39FF14" alt="Ollama" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=39FF14" alt="RAG" />
 </p>
 
-
 </td>
+
 </tr>
 <tr>
 <td align="center" width="100%" colspan="2" valign="top">
