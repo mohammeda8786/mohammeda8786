@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./gif.gif" width="100%" alt="Hacker green animated banner" />
+<img src="./gif.gif" width="420" alt="Hacker green animated banner" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001A08,50:008F11,100:00FF41&height=120&section=header&text=MOHAMMED%20A.&fontSize=42&fontColor=E8FFE8&fontAlignY=55&animation=fadeIn" width="100%" alt="Mohammed A. hacker green header" />
 
