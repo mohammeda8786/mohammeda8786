@@ -8,7 +8,7 @@
 <h2>Software Engineer | Applied AI &amp; Generative AI</h2>
 
 <p>
-Building practical software solutions with Java, Python, React, Node.js, and Generative AI.
+Building practical software solutions with Java, Python, React, and Generative AI.
 </p>
 
 <p>
@@ -25,7 +25,7 @@ Building practical software solutions with Java, Python, React, Node.js, and Gen
 </td>
 <td width="25%" align="center" valign="middle">
 
-<img src="./code-portrait.png" width="240" alt="Mohammed's CODE typography portrait"/>
+<img src="./gitwrap.png.png" width="240" alt="Mohammed's CODE typography portrait"/>
 
 </td>
 </tr>
