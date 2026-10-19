@@ -16,7 +16,7 @@ Building practical software solutions with Java, Python, React, Node.js, and Gen
 
  <td width="18%" valign="top" align="right">
       <img
-        src="./CODE();%20Typographic%20Portrait%20in%20Monochrome.png"
+        src="./gitwrap.png.png"
         width="150"
         alt="Mohammed's CODE typography portrait"
       />
