@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052E16,100:00FF41&height=180&section=header&text=MOHAMMED%20A.&fontSize=46&fontColor=E8FFE8&fontAlignY=36&desc=HACK%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descSize=16&descColor=00FF41&descAlignY=58&animation=fadeIn" width="100%" alt="Hacker green profile banner" />
+<img src="./gif.gif" width="100%" alt="Hacker green animated banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;Exploring+Applied+AI+%26+Generative+AI;Building+RAG+Applications;DSA+%7C+Problem+Solving+%7C+Innovation" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001A08,50:008F11,100:00FF41&height=120&section=header&text=MOHAMMED%20A.&fontSize=42&fontColor=E8FFE8&fontAlignY=55&animation=fadeIn" width="100%" alt="Mohammed A. hacker green header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Software+Engineering+Enthusiast;%3E+Exploring+Applied+AI+%26+Generative+AI;%3E+Building+RAG+Applications;%3E+DSA+%7C+Problem+Solving+%7C+Innovation" alt="Animated introduction" />
 
 <a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-101810?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
@@ -49,38 +51,38 @@
 
 ## `> tech_stack --list`
 
-### Programming languages
+### Programming Languages
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java, Python, C and JavaScript" />
 
 </div>
 
-### Web development
+### Frontend & Backend
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" alt="React, Vite, Tailwind CSS, Node.js and Express" />
 
 </div>
 
-### Databases and AI
+### Databases & AI
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square&logoColor=00FF41)
-![Qdrant](https://img.shields.io/badge/Qdrant-101810?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-101810?style=flat-square&logo=ollama&logoColor=00FF41)
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-101810?style=flat-square&labelColor=101810&color=00A82D)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square&color=00FF41&labelColor=101810)
+![Qdrant](https://img.shields.io/badge/Qdrant-101810?style=flat-square&color=00FF41&labelColor=101810)
+![Ollama](https://img.shields.io/badge/Ollama-101810?style=flat-square&logo=ollama&logoColor=00FF41&color=101810)
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-101810?style=flat-square&color=00FF41&labelColor=101810)
 
 </div>
 
-### Developer tools
+### Developer Tools
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker&theme=dark" alt="Git, GitHub, Postman, VS Code and Docker" />
 
@@ -103,9 +105,9 @@ A retrieval-based banking assistant that uses banking-policy information to answ
 ![React](https://img.shields.io/badge/React-101810?style=flat-square&logo=react&logoColor=00FF41)
 ![Node.js](https://img.shields.io/badge/Node.js-101810?style=flat-square&logo=nodedotjs&logoColor=00FF41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101810?style=flat-square&logo=mongodb&logoColor=00FF41)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square&color=00FF41)
 
-[**↗ View Repository**](https://github.com/mohammeda8786/ai-banking-chatbot)
+[↗ **View Repository**](https://github.com/mohammeda8786/ai-banking-chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -117,11 +119,11 @@ Exploring evidence-driven retrieval and analysis of internal banking policy clau
 **Stack**
 
 ![Python](https://img.shields.io/badge/Python-101810?style=flat-square&logo=python&logoColor=00FF41)
-![RAG](https://img.shields.io/badge/RAG-101810?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-101810?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-101810?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-101810?style=flat-square&color=00FF41)
+![Embeddings](https://img.shields.io/badge/Embeddings-101810?style=flat-square&color=00FF41)
+![Vector Search](https://img.shields.io/badge/Vector_Search-101810?style=flat-square&color=00FF41)
 
-[**↗ Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
+[↗ **Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
 
 </td>
 </tr>
@@ -130,9 +132,7 @@ Exploring evidence-driven retrieval and analysis of internal banking policy clau
 
 ### 🛒 Grocery Billing Web App
 
-A billing application designed around real-world grocery and pulses business workflows, including product lookup, flexible pricing, and Tamil-friendly billing.
-
-**Stack**
+A billing application designed around grocery and pulses business workflows, including product lookup, flexible pricing, and Tamil-friendly billing.
 
 ![React](https://img.shields.io/badge/React-101810?style=flat-square&logo=react&logoColor=00FF41)
 ![Vite](https://img.shields.io/badge/Vite-101810?style=flat-square&logo=vite&logoColor=00FF41)
@@ -140,7 +140,7 @@ A billing application designed around real-world grocery and pulses business wor
 ![Node.js](https://img.shields.io/badge/Node.js-101810?style=flat-square&logo=nodedotjs&logoColor=00FF41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101810?style=flat-square&logo=mongodb&logoColor=00FF41)
 
-[**↗ Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
+[↗ **Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ A billing application designed around real-world grocery and pulses business wor
 
 ---
 
-## `> github --stats`
+## `> github --dashboard`
 
 <div align="center">
 
@@ -201,6 +201,8 @@ A billing application designed around real-world grocery and pulses business wor
 <a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-00FF41?style=for-the-badge&logo=github&logoColor=000000" alt="Explore my code" /></a>
 <a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/CONNECT-101810?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:063B18,100:000000&height=100&section=footer" width="100%" alt="Green footer banner" />
+<br/><br/>
+
+<img src="./gifitself.gif" width="100%" alt="Hacker green animated footer" />
 
 </div>
