@@ -1,96 +1,136 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Mohammed+A.;Software+Engineer;Applied+AI+%26+Generative+AI" alt="Animated introduction"/>
-</div>
 
-<h3 align="center">Software Engineer | Applied AI &amp; Generative AI</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=MOHAMMED%20A.&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20APPLIED%20AI&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Mohammed A. profile banner"/>
 
-<p align="center">
-  Building practical software solutions with Java, Python, React, Node.js, and Generative AI.
-</p>
+<br/>
 
-<p align="center">
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Building+Useful+AI+Applications;Exploring+Retrieval-Augmented+Generation;Solving+Problems+with+Data+Structures;Turning+Ideas+Into+Working+Software" alt="Animated tagline"/>
+</a>
+
+<p>
   <a href="https://github.com/mohammeda8786">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/mohammed-a-609662328">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=35&lines=Data+Structures+%26+Algorithms;Retrieval-Augmented+Generation+(RAG);Building+Useful+AI+Applications" alt="Dynamic technical interests"/>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — About Me
 
-- 🎓 B.E. Electronics & Instrumentation Engineering at BIT Sathy.
-- 💻 Focused on software engineering and applied AI.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🤖 Exploring RAG, semantic search, embeddings, and vector databases.
-- 🛠️ Building practical full-stack and AI applications.
+```text
+Name       : Mohammed A.
+Role       : Software Engineer | Applied AI
+Education  : B.E. Electronics & Instrumentation Engineering
+Interests  : Backend Engineering, Generative AI, RAG
+Mindset    : Learn → Build → Test → Improve
+```
 
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,vite,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark" alt="Technology stack"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/ChromaDB-6C47FF?style=flat-square" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
-</p>
+I'm passionate about building practical software applications and exploring how AI can solve real-world problems. I enjoy strengthening my problem-solving skills while developing full-stack projects and retrieval-based AI systems.
 
 ---
 
-## 🚀 Featured Projects
+## `02` — Tech Arsenal
 
-### 🤖 Adaptive RAG Pipeline for Banking Policy Analysis
+<div align="center">
 
-Exploring evidence retrieval and grounded analysis of banking policy and regulatory documents.
+### Languages
 
-**Focus:** Document processing, semantic retrieval, and evidence-grounded responses.
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Programming languages"/>
 
-[Explore repositories →](https://github.com/mohammeda8786?tab=repositories)
+### Web Development
 
-### 🏦 AI-Powered Banking Chatbot
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,nodejs,express&theme=dark" alt="Web technologies"/>
 
-A banking assistant that uses retrieved banking-policy information to answer questions.
+### Databases & Tools
 
-**Stack:** React, Vite, Node.js, Express, MongoDB, Ollama, ChromaDB.
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,docker&theme=dark" alt="Databases and developer tools"/>
 
-[View project →](https://github.com/mohammeda8786/ai-banking-chatbot)
+<br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vector_Databases-0F766E?style=for-the-badge" alt="Vector databases"/>
+<img src="https://img.shields.io/badge/Ollama-333333?style=for-the-badge" alt="Ollama"/>
+
+</div>
+
+---
+
+## `03` — Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 AI Banking Chatbot
+
+A conversational banking assistant using retrieved banking-policy information.
+
+**Stack**
+
+React · Vite · Node.js · Express · MongoDB · Ollama · ChromaDB
+
+[↗ View Repository](https://github.com/mohammeda8786/ai-banking-chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Adaptive RAG Pipeline
+
+Exploring retrieval and evidence-grounded analysis of banking policy and regulatory documents.
+
+**Focus**
+
+Document processing · Semantic search · Embeddings · Vector databases
+
+[↗ Explore Repositories](https://github.com/mohammeda8786?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🛒 Grocery Billing Web Application
 
-A billing application designed around the practical needs of a grocery and pulses business.
+A full-stack billing project designed around the practical needs of a grocery and pulses business.
 
-**Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB.
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
 
-[Explore repositories →](https://github.com/mohammeda8786?tab=repositories)
+[↗ Explore Repositories](https://github.com/mohammeda8786?tab=repositories)
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mohammeda8786&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Certifications
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mohammeda8786&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammeda8786&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `05` — Certifications
 
 - Oracle Cloud Infrastructure — Machine Learning Associate
 - Oracle Cloud Infrastructure — Generative AI Professional
@@ -100,11 +140,27 @@ A billing application designed around the practical needs of a grocery and pulse
 
 ---
 
-## 🤝 Let's Connect
+## `06` — Current Mission
 
-<p>
-  <a href="https://github.com/mohammeda8786">GitHub</a> ·
-  <a href="https://linkedin.com/in/mohammed-a-609662328">LinkedIn</a>
-</p>
+- [ ] Improve DSA and problem-solving skills.
+- [ ] Build reliable backend APIs and full-stack applications.
+- [ ] Improve retrieval quality and evidence grounding in RAG.
+- [ ] Deepen software engineering and system design fundamentals.
+- [ ] Build useful projects and document them consistently.
 
-<p><i>Learn continuously. Build thoughtfully. Solve meaningful problems.</i></p>
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="https://github.com/mohammeda8786">GitHub</a> ·
+<a href="https://linkedin.com/in/mohammed-a-609662328">LinkedIn</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:312E81&height=4&section=footer" width="100%" alt="Footer accent"/>
+
+<sub>Learn continuously. Build thoughtfully. Solve meaningful problems.</sub>
+
+</div>
