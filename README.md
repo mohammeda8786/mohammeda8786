@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Software+Engineering+Enthusiast;Exploring+Applied+AI+%26+Generative+AI;Building+Useful+Software%2C+One+Step+at+a+Time" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Software+Engineering+Enthusiast;Exploring+Applied+AI+%26+Generative+AI;Building+Useful+Software%2C+One+Step+at+a+Time" alt="Animated introduction"/>
 
 <br/>
 
@@ -114,47 +114,68 @@ I enjoy understanding problems deeply and turning ideas into useful software.
 
 ---
 
+
+---
+
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### AI Banking Chatbot
+### 🏦 01. AI Banking Chatbot
 
-A retrieval-based assistant designed to answer questions using banking-policy information.
+A retrieval-based banking assistant designed to answer questions using banking-policy information.
 
-**Stack:** React · Node.js · MongoDB · ChromaDB
+**Tech Stack**
 
-[View project →](https://github.com/mohammeda8786/ai-banking-chatbot)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express and MongoDB" />
 
-</td>
-<td width="50%" valign="top">
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117)
 
-### Adaptive RAG Pipeline
-
-Exploring evidence-driven retrieval to compare internal banking policies with relevant RBI regulatory documents.
-
-**Focus:** Python · RAG · Embeddings · Vector Search
-
-[Explore repositories →](https://github.com/mohammeda8786?tab=repositories)
+[**View Repository →**](https://github.com/mohammeda8786/ai-banking-chatbot)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="100%" valign="top">
 
-### Grocery Billing Web App
+### 🧠 02. Adaptive RAG Pipeline
+
+Exploring evidence-driven retrieval to compare internal banking policies with relevant RBI regulatory documents.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+
+![Embeddings](https://img.shields.io/badge/Embeddings-0D1117?style=flat-square&labelColor=0D1117)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0D1117?style=flat-square&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117)
+
+[**Explore Repositories →**](https://github.com/mohammeda8786?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🛒 03. Grocery Billing Web App
 
 A billing application designed for grocery and pulses business workflows, with product lookup, flexible pricing, and Tamil-friendly billing.
 
-**Stack:** React · Vite · Tailwind CSS · Node.js · MongoDB
+**Tech Stack**
 
-[Explore repositories →](https://github.com/mohammeda8786?tab=repositories)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb&theme=dark" alt="React, Vite, Tailwind CSS, Node.js, Express and MongoDB" />
+
+[**Explore Repositories →**](https://github.com/mohammeda8786?tab=repositories)
 
 </td>
 </tr>
 </table>
+
+---
+
 
 ---
 
