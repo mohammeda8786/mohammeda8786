@@ -1,45 +1,57 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052E16,100:00FF41&height=160&section=header&text=MOHAMMED%20A.&fontSize=46&fontColor=E8FFE8&fontAlignY=36&desc=HACK%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descSize=16&descColor=00FF41&descAlignY=58&animation=fadeIn" width="100%" alt="Hacker green profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020702,50:073D18,100:00A82D&height=8&section=header" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Software+Engineering+Enthusiast;%3E+Exploring+Applied+AI+%26+Generative+AI;%3E+Building+RAG+Applications;%3E+DSA+%7C+Problem+Solving+%7C+Innovation" alt="Animated introduction" />
+<br/>
 
-<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub profile" /></a>
-<a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-101810?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn profile" /></a>
+<img src="./gitgif.gif" width="180" alt="Matrix green hacker animation" />
+
+# <span>MOHAMMED A.</span>
+
+### `Software Engineer in Progress | Applied AI Explorer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+Think+in+systems.;%3E+Build+with+purpose.;%3E+Explore+Artificial+Intelligence.;%3E+Learn.+Debug.+Repeat." alt="Terminal typing animation" />
+
+<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 // ABOUT`
 
 <table>
 <tr>
-<td width="68%" valign="middle">
+<td valign="top" width="65%">
 
-### Hi, I'm Mohammed A. 👋
+```text
+USER        : Mohammed A.
+EDUCATION   : B.E. Electronics & Instrumentation
+INSTITUTE   : BIT Sathy
+CAREER PATH : Software Engineering / Applied AI
+MODE        : Always Learning
+```
 
-🎓 Pursuing B.E. in Electronics & Instrumentation Engineering at BIT Sathy.
+- 🎓 Engineering student exploring software development.
+- 💻 Practicing Java, DSA, and problem-solving.
+- 🤖 Building projects around AI and retrieval-augmented generation.
+- 🔎 Exploring embeddings, semantic search, and vector databases.
+- 🛠️ Interested in turning practical problems into useful applications.
 
-💻 Aspiring Software Engineer interested in building practical software.
-
-🤖 Exploring Applied AI, Generative AI, and retrieval-based applications.
-
-🧠 Practicing Data Structures and Algorithms.
-
-🔍 Interested in RAG, semantic search, embeddings, and vector databases.
-
-⚙️ I enjoy understanding how systems work and solving real-world problems through code.
-
-**My approach:** Learn → Build → Test → Improve.
+**Personal principle:** Understand the problem before optimizing the solution.
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td valign="middle" align="center" width="35%">
 
-<img src="./gitgif.gif" width="220" alt="Animated Matrix hacker green portrait" />
+<img src="./gitgif.gif" width="155" alt="Animated green Matrix code" />
 
-**`Code()` · `Create()` · `Grow()`**
+**`Code()`**
+
+**`Create()`**
+
+**`Evolve()`**
 
 </td>
 </tr>
@@ -47,40 +59,40 @@
 
 ---
 
-## `> tech_stack --list`
+## `02 // TECHNOLOGY MATRIX`
 
-### Programming Languages
+**Languages**
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java, Python, C and JavaScript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java, Python, C, JavaScript" />
 
 </div>
 
-### Frontend & Backend
+**Frontend and backend**
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" alt="React, Vite, Tailwind CSS, Node.js and Express" />
 
 </div>
 
-### Databases & AI
+**Databases and AI**
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square&labelColor=101810&color=00FF41)
-![Qdrant](https://img.shields.io/badge/Qdrant-101810?style=flat-square&labelColor=101810&color=00FF41)
-![Ollama](https://img.shields.io/badge/Ollama-101810?style=flat-square&logo=ollama&logoColor=00FF41&color=101810)
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-101810?style=flat-square&labelColor=101810&color=00FF41)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-071B0A?style=flat-square&logoColor=39FF14&color=071B0A)
+![Qdrant](https://img.shields.io/badge/Qdrant-071B0A?style=flat-square&color=071B0A)
+![Ollama](https://img.shields.io/badge/Ollama-071B0A?style=flat-square&logo=ollama&logoColor=39FF14&color=071B0A)
+![RAG](https://img.shields.io/badge/RAG-071B0A?style=flat-square&color=071B0A)
 
 </div>
 
-### Developer Tools
+**Developer tools**
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker&theme=dark" alt="Git, GitHub, Postman, VS Code and Docker" />
 
@@ -88,59 +100,57 @@
 
 ---
 
-## `> featured_projects`
+## `03 // PROJECT_DATABASE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 AI Banking Chatbot
+### `[01]` AI Banking Chatbot
 
-A retrieval-based banking assistant that uses banking-policy information to answer questions with relevant context.
+A retrieval-based assistant for answering questions using banking-policy information.
 
-**Technology**
+**Stack**
 
-![React](https://img.shields.io/badge/React-101810?style=flat-square&logo=react&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-101810?style=flat-square&logo=nodedotjs&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-101810?style=flat-square&logo=mongodb&logoColor=00FF41)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-101810?style=flat-square&color=00FF41)
+![React](https://img.shields.io/badge/React-071B0A?style=flat-square&logo=react&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-071B0A?style=flat-square&logo=express&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-071B0A?style=flat-square&logo=mongodb&logoColor=39FF14)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-071B0A?style=flat-square&color=071B0A)
 
-[↗ **View Repository**](https://github.com/mohammeda8786/ai-banking-chatbot)
+[**OPEN PROJECT ↗**](https://github.com/mohammeda8786/ai-banking-chatbot)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Adaptive RAG Pipeline
+### `[02]` Adaptive RAG Pipeline
 
-Exploring evidence-driven retrieval and analysis of internal banking policy clauses against relevant RBI regulatory documents.
+Exploring evidence-driven retrieval for comparing internal banking policies with relevant RBI regulatory documents.
 
-**Technology**
+**Stack**
 
-![Python](https://img.shields.io/badge/Python-101810?style=flat-square&logo=python&logoColor=00FF41)
-![RAG](https://img.shields.io/badge/RAG-101810?style=flat-square&color=00FF41)
-![Embeddings](https://img.shields.io/badge/Embeddings-101810?style=flat-square&color=00FF41)
-![Vector Search](https://img.shields.io/badge/Vector_Search-101810?style=flat-square&color=00FF41)
+![Python](https://img.shields.io/badge/Python-071B0A?style=flat-square&logo=python&logoColor=39FF14)
+![RAG](https://img.shields.io/badge/RAG-071B0A?style=flat-square&color=071B0A)
+![Embeddings](https://img.shields.io/badge/Embeddings-071B0A?style=flat-square&color=071B0A)
+![Vector DB](https://img.shields.io/badge/Vector_DB-071B0A?style=flat-square&color=071B0A)
 
-[↗ **Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
+[**VIEW REPOSITORIES ↗**](https://github.com/mohammeda8786?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🛒 Grocery Billing Web App
+### `[03]` Grocery Billing Web App
 
-A billing application designed around grocery and pulses business workflows, including product lookup, flexible pricing, and Tamil-friendly billing.
+A billing application designed for grocery and pulses business workflows, with product lookup, flexible pricing, and Tamil-friendly billing.
 
-**Technology**
+![React](https://img.shields.io/badge/React-071B0A?style=flat-square&logo=react&logoColor=39FF14)
+![Vite](https://img.shields.io/badge/Vite-071B0A?style=flat-square&logo=vite&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/Tailwind-071B0A?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/Node.js-071B0A?style=flat-square&logo=nodedotjs&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-071B0A?style=flat-square&logo=mongodb&logoColor=39FF14)
 
-![React](https://img.shields.io/badge/React-101810?style=flat-square&logo=react&logoColor=00FF41)
-![Vite](https://img.shields.io/badge/Vite-101810?style=flat-square&logo=vite&logoColor=00FF41)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101810?style=flat-square&logo=tailwindcss&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-101810?style=flat-square&logo=nodedotjs&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-101810?style=flat-square&logo=mongodb&logoColor=00FF41)
-
-[↗ **Explore Repositories**](https://github.com/mohammeda8786?tab=repositories)
+[**VIEW REPOSITORIES ↗**](https://github.com/mohammeda8786?tab=repositories)
 
 </td>
 </tr>
@@ -148,55 +158,53 @@ A billing application designed around grocery and pulses business workflows, inc
 
 ---
 
-## `> github --dashboard`
+## `04 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/mohammeda8786"><img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&hide_border=true&bg_color=050A05&title_color=00FF41&icon_color=00FF41&text_color=B7FFB7&rank_icon=github" width="49%" alt="GitHub statistics" /></a><a href="https://github.com/mohammeda8786"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&hide_border=true&bg_color=050A05&title_color=00FF41&text_color=B7FFB7" width="49%" alt="Most used languages" /></a>
-
-<br/>
-
-<a href="https://github.com/mohammeda8786"><img src="https://streak-stats.demolab.com?user=mohammeda8786&hide_border=true&background=050A05&ring=00FF41&fire=7CFF00&currStreakLabel=00FF41&sideLabels=B7FFB7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=79A879" width="75%" alt="GitHub contribution streak" /></a>
-
-</div>
-
----
-
-## `> certifications`
-
-- 🟢 Oracle Cloud Infrastructure — Machine Learning Associate
-- 🟢 Oracle Cloud Infrastructure — Generative AI Professional
-- 🟢 Cisco — Introduction to Cybersecurity
-- 🟢 HackerRank — Java Basics
-- 🟢 HackerRank — SQL Basics
-
----
-
-## `> current_mission`
-
-<div align="center">
-
-| Focus | Mission |
-|:---|:---|
-| 💻 Software Engineering | Strengthen coding fundamentals |
-| 🧠 DSA | Practice problem-solving |
-| 🤖 Applied AI | Build practical AI applications |
-| 🔎 RAG Systems | Improve retrieval and evidence quality |
-| 🛠️ Projects | Build, test, and improve |
-
-</div>
-
-<div align="center">
-
-### `> STAY CURIOUS. KEEP BUILDING.`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=450&lines=Curious+%E2%80%A2+Adaptable+%E2%80%A2+Builder;One+commit+at+a+time.;Learn.+Build.+Repeat." alt="Closing animation" />
-
-<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-00FF41?style=for-the-badge&logo=github&logoColor=000000" alt="Explore my code" /></a>
-<a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/CONNECT-101810?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/mohammeda8786"><img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&hide_border=true&bg_color=050A05&title_color=39FF14&icon_color=39FF14&text_color=C7E8C7&rank_icon=github" width="49%" alt="GitHub statistics" /></a><a href="https://github.com/mohammeda8786"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&hide_border=true&bg_color=050A05&title_color=39FF14&text_color=C7E8C7" width="49%" alt="Most used languages" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:063B18,100:000000&height=100&section=footer" width="100%" alt="Hacker green footer" />
+<a href="https://github.com/mohammeda8786"><img src="https://streak-stats.demolab.com?user=mohammeda8786&hide_border=true&background=050A05&ring=39FF14&fire=7CFF00&currStreakLabel=39FF14&sideLabels=C7E8C7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=79A879" width="80%" alt="Contribution streak" /></a>
+
+</div>
+
+---
+
+## `05 // CERTIFICATIONS`
+
+| Certification | Provider |
+|:---|:---|
+| Machine Learning Associate | Oracle Cloud Infrastructure |
+| Generative AI Professional | Oracle Cloud Infrastructure |
+| Introduction to Cybersecurity | Cisco |
+| Java Basics | HackerRank |
+| SQL Basics | HackerRank |
+
+---
+
+## `06 // NEXT_OBJECTIVES`
+
+```text
+[ ] Strengthen Data Structures & Algorithms
+[ ] Build useful Applied AI applications
+[ ] Improve retrieval and evidence quality in RAG
+[ ] Strengthen full-stack development
+[ ] Keep projects documented and code readable
+```
+
+<div align="center">
+
+### `> LEARN. BUILD. ITERATE.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=39FF14&center=true&vCenter=true&width=420&lines=Curious.;Adaptable.;Builder.;Keep+shipping." alt="Closing terminal animation" />
+
+<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/EXPLORE_CODE-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="Explore code" /></a>
+<a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/CONNECT-071B0A?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:063B18,100:000000&height=100&section=footer" width="100%" alt="Green footer" />
 
 </div>
