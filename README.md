@@ -194,7 +194,8 @@ A billing application designed for grocery and pulses business workflows, with p
 ---
 
 ## Certifications
-
+- Certified System Administrator — ServiceNow
+- Certified Application Developer — ServiceNow
 - Oracle Cloud Infrastructure — Machine Learning Associate
 - Oracle Cloud Infrastructure — Generative AI Professional
 - Cisco — Introduction to Cybersecurity
