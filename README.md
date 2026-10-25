@@ -1,14 +1,14 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07130B,50:103D20,100:39FF14&height=170&section=header&text=Mohammed%20A.&fontSize=46&fontColor=F0FFF3&fontAlignY=40&animation=fadeIn" width="100%" alt="Mohammed A. header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B70,100:38BDF8&height=170&section=header&text=Mohammed%20A.&fontSize=46&fontColor=F0F7FF&fontAlignY=40&animation=fadeIn" width="100%" alt="Mohammed A. blue profile header" />
 
 ### SOFTWARE ENGINEERING · APPLIED AI · GENERATIVE AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Exploring+Generative+AI+and+RAG;Learning+DSA+and+backend+development;Turning+ideas+into+useful+applications" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Exploring+Generative+AI+and+RAG;Learning+DSA+and+backend+development;Turning+ideas+into+useful+applications" alt="Animated introduction" />
 
 <br/>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/mohammed-a-609662328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -35,7 +35,7 @@ My goal is to keep learning, build meaningful projects, and become a stronger so
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="./gitgif.gif" width="180" alt="Green terminal animation"/>
+<img src="./gitgif.gif" width="180" alt="Blue-themed terminal animation"/>
 
 **Code. Build. Improve.**
 
@@ -78,13 +78,13 @@ My goal is to keep learning, build meaningful projects, and become a stronger so
 
 ### AI & Vector Search
 
-<img src="https://img.shields.io/badge/ChromaDB-18181B?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Qdrant-18181B?style=for-the-badge&logo=qdrant&logoColor=DC382D" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/ChromaDB-101B2D?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Qdrant-101B2D?style=for-the-badge&logo=qdrant&logoColor=38BDF8" alt="Qdrant"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ollama-18181B?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/RAG-18181B?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/Ollama-101B2D?style=for-the-badge&logo=ollama&logoColor=38BDF8" alt="Ollama"/>
+<img src="https://img.shields.io/badge/RAG-101B2D?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation"/>
 
 </td>
 </tr>
@@ -117,9 +117,9 @@ A retrieval-based banking assistant designed to answer questions using banking-p
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express and MongoDB"/>
 
-<img src="https://img.shields.io/badge/ChromaDB-18181B?style=flat-square" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Ollama-18181B?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/RAG-18181B?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/ChromaDB-101B2D?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Ollama-101B2D?style=flat-square&logo=ollama&logoColor=38BDF8" alt="Ollama"/>
+<img src="https://img.shields.io/badge/RAG-101B2D?style=flat-square" alt="RAG"/>
 
 [**View source code →**](https://github.com/mohammeda8786/ai-banking-chatbot)
 
@@ -136,9 +136,9 @@ An evidence-driven retrieval project exploring comparisons between internal bank
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
-<img src="https://img.shields.io/badge/Embeddings-18181B?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector_Search-18181B?style=flat-square" alt="Vector Search"/>
-<img src="https://img.shields.io/badge/RAG-18181B?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Embeddings-101B2D?style=flat-square" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Vector_Search-101B2D?style=flat-square" alt="Vector Search"/>
+<img src="https://img.shields.io/badge/RAG-101B2D?style=flat-square" alt="RAG"/>
 
 [**Explore repositories →**](https://github.com/mohammeda8786?tab=repositories)
 
@@ -167,12 +167,12 @@ A billing application designed for grocery and pulses business workflows, with p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="49%" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammeda8786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeda8786&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mohammeda8786&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="75%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=mohammeda8786&hide_border=true&background=0D1117&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="75%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -194,14 +194,14 @@ A billing application designed for grocery and pulses business workflows, with p
 
 ### `while (learning) { keepBuilding(); }`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Stay+curious.;Build+with+purpose.;Make+every+commit+count." alt="Closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Stay+curious.;Build+with+purpose.;Make+every+commit+count." alt="Closing message"/>
 
 <br/>
 
-<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/Explore_My_Code-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore my GitHub"/></a>
+<a href="https://github.com/mohammeda8786"><img src="https://img.shields.io/badge/Explore_My_Code-101B2D?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore my GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:103D20,100:07130B&height=100&section=footer" width="100%" alt="Green footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:123B70,100:07111F&height=100&section=footer" width="100%" alt="Blue footer"/>
 
 </div>
