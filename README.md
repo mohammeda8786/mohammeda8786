@@ -9,8 +9,6 @@
 
 <br/>
 
-<a href="https://github.com/mohammeda8786">GitHub</a>
-&nbsp; • &nbsp;
 <a href="https://linkedin.com/in/mohammed-a-609662328">LinkedIn</a>
 
 </div>
